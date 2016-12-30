@@ -2315,6 +2315,7 @@
 61.91.161.217 bp2.blogger.com
 61.91.161.217 bp1.blogger.com
 61.91.161.217 bp0.blogger.com
+61.91.161.217 boringssl.googlesource.com
 61.91.161.217 books.googleusercontent.com
 61.91.161.217 books.google.com.tw
 61.91.161.217 books.google.com.sg
@@ -55770,6 +55771,7 @@
 0.0.0.0 content.adriver.ru
 0.0.0.0 content.ad-flow.com
 0.0.0.0 content.ad20.net
+0.0.0.0 content.ad
 0.0.0.0 content.acc-hd.de
 0.0.0.0 contaxe.de
 0.0.0.0 contaxe.com
@@ -58002,7 +58004,6 @@
 0.0.0.0 bannert.ru
 0.0.0.0 banner.tonygpoker.com
 0.0.0.0 banner.titan-dsl.de
-0.0.0.0 bannertesting.com
 0.0.0.0 banner.terminal.hu
 0.0.0.0 banner.techarp.com
 0.0.0.0 banner.techarp.com
