@@ -33,7 +33,16 @@
 72.21.91.127 api-mobile.soundcloud.com
 72.21.81.77 ec-media.sndcdn.com
 72.21.81.167 ec-media.soundcloud.com
-69.147.76.173 flickr.com
+69.147.88.13 c.staticflickr.com
+69.147.88.13 c9.staticflickr.com
+69.147.88.13 c8.staticflickr.com
+69.147.88.13 c7.staticflickr.com
+69.147.88.13 c6.staticflickr.com
+69.147.88.13 c5.staticflickr.com
+69.147.88.13 c4.staticflickr.com
+69.147.88.13 c3.staticflickr.com
+69.147.88.13 c2.staticflickr.com
+69.147.88.13 c1.staticflickr.com
 68.232.44.251 www.w3schools.com
 68.232.32.220 ec-rtmp-media.soundcloud.com
 66.6.44.4 media.tumblr.com
@@ -615,6 +624,7 @@
 61.91.161.217 orkut.google.com
 61.91.161.217 origin-commondatastorage.googleapis.com
 61.91.161.217 optimize.google.com
+61.91.161.217 ogs.google.com
 61.91.161.217 officialandroid.blogspot.com
 61.91.161.217 oauth.googleusercontent.com
 61.91.161.217 nt3.ggpht.com
@@ -2723,6 +2733,7 @@
 204.79.197.217 onedrive.live.com
 204.0.5.34 us.js2.yimg.com
 203.84.197.27 mg.mail.yahoo.com
+203.84.197.27 lh.secure.yahoo.com
 203.84.197.27 finance.yahoo.com
 203.69.81.33 humblebundle-a.akamaihd.net
 202.43.194.205 c5.ah.yahoo.com
@@ -10662,8 +10673,9 @@
 184.28.188.10 external.ak.fbcdn.net
 184.28.188.10 creative.ak.fbcdn.net
 184.28.188.10 b.static.ak.fbcdn.net
-183.177.81.75 www.flickr.com
-183.177.81.75 downloadr.flickr.com
+183.177.81.73 www.flickr.com
+183.177.81.73 flickr.com
+183.177.81.73 downloadr.flickr.com
 177.72.244.194 sa-east-1.console.aws.amazon.com
 176.32.114.59 us-west-1.console.aws.amazon.com
 173.236.110.98 web9.twitpic.com
@@ -10766,7 +10778,7 @@
 128.127.159.1 94.media.tumblr.com
 121.101.144.116 up.flickr.com
 121.101.144.112 hk.finance.yahoo.com
-121.101.144.112 api.flickr.com
+119.161.10.150 api.flickr.com
 119.160.254.215 secure.assets.tumblr.com
 119.160.254.215 s1.yimg.com
 119.160.254.215 p.yimg.com
@@ -10819,6 +10831,7 @@
 110.4.24.178 api.twitter.com
 110.4.24.178 analytics.twitter.com
 110.4.24.178 about.twitter.com
+108.177.97.82 tensorflow.googlesource.com
 108.160.172.236 client-web.dropbox.com
 108.160.172.236 client.v.dropbox.com
 108.160.172.236 client-lb.dropbox.com
@@ -10835,6 +10848,7 @@
 108.160.172.225 api-d.dropbox.com
 108.160.172.207 photos.dropbox.com
 106.10.199.11 tw.news.yahoo.com
+106.10.199.11 heartbeat.flickr.com
 106.10.199.10 hk.news.yahoo.com
 106.10.193.30 sp.analytics.yahoo.com
 106.10.193.20 sa.edit.yahoo.com
