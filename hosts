@@ -10803,12 +10803,16 @@
 154.35.132.70 atlas.torproject.org
 151.101.76.249 travis-ci-org.global.ssl.fastly.net
 151.101.76.249 98.media.tumblr.com
-151.101.24.193 www.imgur.com
-151.101.24.193 s.imgur.com
-151.101.24.193 imgur.com
-151.101.24.193 i.imgur.com
 151.101.100.64 links.services.disqus.com
 151.101.100.64 glitter.services.disqus.com
+151.101.100.193 www.imgur.com
+151.101.100.193 store.imgur.com
+151.101.100.193 s.imgur.com
+151.101.100.193 p.imgur.com
+151.101.100.193 m.imgur.com
+151.101.100.193 imgur.com
+151.101.100.193 i.imgur.com
+151.101.100.193 api.imgur.com
 151.101.100.134 www.disqus.com
 151.101.100.134 referrer.disqus.com
 151.101.100.134 dropbox.disqus.com
@@ -15408,6 +15412,7 @@
 0.0.0.0 videoegg.adbureau.net
 0.0.0.0 video.dmtracker.com
 0.0.0.0 videodetectivenetwork.valuead.com
+0.0.0.0 video.cynogage.com
 0.0.0.0 videocop.com
 0.0.0.0 videocodezone.us.intellitxt.com
 0.0.0.0 videoclick.ru
@@ -15523,8 +15528,10 @@
 0.0.0.0 vbadbg.hit.gemius.pl
 0.0.0.0 vault9.us.intellitxt.com
 0.0.0.0 vastx.moatads.com
+0.0.0.0 vast.vertamedia.com
 0.0.0.0 vast.tubemogul.com
 0.0.0.0 vast.optimatic.com
+0.0.0.0 vast.deliads.com
 0.0.0.0 vast.bp3855992.btrll.com
 0.0.0.0 vast.bp3855991.btrll.com
 0.0.0.0 vast.bp3855989.btrll.com
@@ -17382,6 +17389,7 @@
 0.0.0.0 tags.toroadvertising.com
 0.0.0.0 tags.tagcade.com
 0.0.0.0 tags.spider-mails.com
+0.0.0.0 tags.rllcll.com
 0.0.0.0 tags.mediaforge.com
 0.0.0.0 tags.mdotlabs.com
 0.0.0.0 tags.mathtag.com
@@ -17672,6 +17680,7 @@
 0.0.0.0 stx0.sextracker.com
 0.0.0.0 st.wetrack.it
 0.0.0.0 st.vq.ku6.cn
+0.0.0.0 st.videojam.tv
 0.0.0.0 st.valueclick.com
 0.0.0.0 stupidcelebrities.us.intellitxt.com
 0.0.0.0 studivz.ivwbox.de
@@ -18028,6 +18037,8 @@
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.virgul.com
+0.0.0.0 static.vertamedia.com
+0.0.0.0 static.unocdn.com
 0.0.0.0 static.unister-adservices.com
 0.0.0.0 static-uk.addynamo.net
 0.0.0.0 static.uk.addynamo.com
@@ -18038,6 +18049,7 @@
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static.tellaparts.com
 0.0.0.0 static.tellapart.com
+0.0.0.0 static.tags.yield-atx.com
 0.0.0.0 static.styria-digital.com
 0.0.0.0 static.springmetrics.com
 0.0.0.0 static.skimlinks.com
@@ -18262,8 +18274,10 @@
 0.0.0.0 s.stats.wordpress.com
 0.0.0.0 s.statistici.ro
 0.0.0.0 sstatic1.histats.com
+0.0.0.0 ssp.streamrail.net
 0.0.0.0 ssprings.rotator.hadj7.adjuggler.net
 0.0.0.0 sspcash.adxcore.com
+0.0.0.0 ssp.anyclip-media.com
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp.adplus.co.id
 0.0.0.0 sso.canada.com
@@ -19358,6 +19372,7 @@
 0.0.0.0 s.domob.cn
 0.0.0.0 sdogiu.bestamazontips.com
 0.0.0.0 sdo993.com
+0.0.0.0 sdk.streamrail.com
 0.0.0.0 sdk-controller.widespace.com
 0.0.0.0 sdinss.cn
 0.0.0.0 s.di.com.pl
@@ -20974,6 +20989,7 @@
 0.0.0.0 productopinionpanel.com
 0.0.0.0 prod-services.interactiveone.com
 0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 prod-e.sprtad.com
 0.0.0.0 prod-d.openx.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 probes.cedexis.com
@@ -21563,6 +21579,7 @@
 0.0.0.0 p.ebdr2.com
 0.0.0.0 pebble-adhese.hbvl.be
 0.0.0.0 pebble-adhese.gva.be
+0.0.0.0 peaky.tags.yield-atx.com
 0.0.0.0 peakclick.com
 0.0.0.0 pe.5.p2l.info
 0.0.0.0 pds.directrev.com
@@ -24138,6 +24155,7 @@
 0.0.0.0 meigouw73.com
 0.0.0.0 meigou22.com
 0.0.0.0 megawerbung.de
+0.0.0.0 mega.vast.mega-tags.com
 0.0.0.0 megasurfin.com
 0.0.0.0 megastats.com
 0.0.0.0 megapopads.com
@@ -28792,9 +28810,11 @@
 0.0.0.0 evepdaggiesports.112.2o7.net
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 events.webflowmetrics.com
+0.0.0.0 events.streamrail.net
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.boomtrain.com
 0.0.0.0 event.ohmyad.co
+0.0.0.0 event-log.videe.tv
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 eventbrite.122.2o7.net
 0.0.0.0 event.2leva.bg
@@ -31757,6 +31777,7 @@
 0.0.0.0 cdn.mirageads.net
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.mercent.com
+0.0.0.0 cdn.mega-tags.com
 0.0.0.0 cdn.mediavoice.com
 0.0.0.0 cdn.mediative.ca
 0.0.0.0 cdn.media.innity.net
@@ -31882,6 +31903,7 @@
 0.0.0.0 cdn-analytics.ladmedia.fr
 0.0.0.0 cdn.amgdgt.com
 0.0.0.0 cdn.amateurmatch.com
+0.0.0.0 cdn.altitudeplatform.com
 0.0.0.0 cdn.alleliteads.com
 0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn.adual.net
@@ -33896,6 +33918,7 @@
 0.0.0.0 ar.hao123.com
 0.0.0.0 a.rfihub.com
 0.0.0.0 are-ter.com
+0.0.0.0 arena.altitudeplatform.com
 0.0.0.0 arena.altitude-arena.com
 0.0.0.0 a.remarketstats.com
 0.0.0.0 arecio.work
@@ -34151,6 +34174,7 @@
 0.0.0.0 a.oix.com
 0.0.0.0 an.z5x.net
 0.0.0.0 anythinghollywood.us.intellitxt.com
+0.0.0.0 any-log.videe.tv
 0.0.0.0 an.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 anxiety.1.p2l.info
