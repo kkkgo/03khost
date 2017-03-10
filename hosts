@@ -57,7 +57,6 @@
 69.147.88.13 c3.staticflickr.com
 69.147.88.13 c2.staticflickr.com
 69.147.88.13 c1.staticflickr.com
-68.232.44.251 www.w3schools.com
 68.232.32.220 ec-rtmp-media.soundcloud.com
 66.6.44.4 media.tumblr.com
 66.6.33.193 tumblr.com
@@ -66,7 +65,6 @@
 66.6.32.4 api.tumblr.com
 66.6.32.162 px.srvcs.tumblr.com
 66.6.32.162 ls.srvcs.tumblr.com
-66.29.212.110 w3schools.com
 64.233.191.121 www.androidexperiments.com
 64.233.191.121 androidexperiments.com
 64.233.189.128 storage.googleapis.com
@@ -2769,6 +2767,8 @@
 23.2.16.8 95.media.tumblr.com
 23.215.103.40 dl.stickershop.line.naver.jp
 23.215.103.24 dl.profile.line.naver.jp
+23.212.99.185 s.pinimg.com
+23.212.99.185 s-media-cache-ak0.pinimg.com
 23.207.122.24 s-external.ak.fbcdn.net
 23.205.217.59 scdn.line-apps.com
 23.0.130.177 w.line.me
@@ -2881,6 +2881,8 @@
 192.229.237.97 mx.tumblr.com
 192.229.237.97 cynicallys.tumblr.com
 192.229.237.185 42.media.tumblr.com
+192.229.173.207 www.w3schools.com
+192.229.173.207 w3schools.com
 192.0.79.32 code.flickr.com
 192.0.78.13 work.fb.com
 192.0.78.13 techprep.fb.com
@@ -11266,6 +11268,10 @@
 151.101.76.249 98.media.tumblr.com
 151.101.73.133 i.vimeocdn.com
 151.101.73.133 f.vimeocdn.com
+151.101.64.84 www.pinterest.com
+151.101.64.84 pinterest.com
+151.101.64.84 blog.pinterest.com
+151.101.64.84 about.pinterest.com
 151.101.100.64 links.services.disqus.com
 151.101.100.64 glitter.services.disqus.com
 151.101.100.193 www.imgur.com
@@ -11482,7 +11488,6 @@
 0.0.0.0 zwjiaoyu.com
 0.0.0.0 z.wackshack.net
 0.0.0.0 zv321.com
-0.0.0.0 zv1.november-lax.com
 0.0.0.0 zuiou.pw
 0.0.0.0 zug.us.intellitxt.com
 0.0.0.0 zt.tim-taxi.com
@@ -15708,6 +15713,7 @@
 0.0.0.0 sqlservercentral.us.intellitxt.com
 0.0.0.0 spywords.com
 0.0.0.0 spywarenuker.com
+0.0.0.0 spywarelabs.com
 0.0.0.0 spytrack.tic.ru
 0.0.0.0 spylog.ru
 0.0.0.0 spylog.com
@@ -17692,7 +17698,6 @@
 0.0.0.0 petamain.112.2o7.net
 0.0.0.0 petakfc.112.2o7.net
 0.0.0.0 personal.editura-amsibiu.ro
-0.0.0.0 perf.weborama.fr
 0.0.0.0 perfspot.crwdcntrl.net
 0.0.0.0 performancing.com
 0.0.0.0 performancerevenues.com
@@ -21183,7 +21188,6 @@
 0.0.0.0 go.mobpartner.mobi
 0.0.0.0 go.mobisla.com
 0.0.0.0 golem.de.intellitxt.com
-0.0.0.0 gold.weborama.fr
 0.0.0.0 goldstats.com
 0.0.0.0 golds.lp.mydas.mobi
 0.0.0.0 goldbye.vicp.net
@@ -26982,7 +26986,6 @@
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.city24.ee
 0.0.0.0 ads.cinemaden.com
-0.0.0.0 ads.cimedia.com
 0.0.0.0 adscience.nl
 0.0.0.0 adscholar.com
 0.0.0.0 ads.china.com
@@ -27871,7 +27874,6 @@
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.9tv.co.il
 0.0.0.0 ad9.speedbit.com
-0.0.0.0 ad.980x.com
 0.0.0.0 ad8.speedbit.com
 0.0.0.0 ad7.speedbit.com
 0.0.0.0 ad7.literotica.com
