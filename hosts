@@ -46,7 +46,6 @@
 72.21.91.127 api-mobile.soundcloud.com
 72.21.81.77 ec-media.sndcdn.com
 72.21.81.167 ec-media.soundcloud.com
-69.192.179.250 scdn.line-apps.com
 69.147.88.13 c.staticflickr.com
 69.147.88.13 c9.staticflickr.com
 69.147.88.13 c8.staticflickr.com
@@ -2708,9 +2707,6 @@
 23.65.183.218 publishers.disqus.com
 23.65.183.218 blog.disqus.com
 23.65.183.218 about.disqus.com
-23.63.22.24 scdn.line-apps.com
-23.57.244.158 scdn.line-apps.com
-23.57.196.158 scdn.line-apps.com
 23.38.99.249 www.kobo.com
 23.38.99.249 tw.kobo.com
 23.38.99.249 storeapi.kobo.com
@@ -2748,10 +2744,7 @@
 23.38.96.57 api.kobobooks.com
 23.38.96.57 akimages.kobobooks.com
 23.34.45.177 s-static.ak.fbcdn.net
-23.32.5.48 scdn.line-apps.com
-23.32.5.48 lan.line.me
 23.253.146.21 bundlestars.com
-23.2.27.60 scdn.line-apps.com
 23.227.38.32 us.kobobooks.com
 23.227.38.32 uk.kobobooks.com
 23.227.38.32 pt.kobobooks.com
@@ -2765,14 +2758,12 @@
 23.227.38.32 ca.kobobooks.com
 23.227.38.32 ca-fr.kobobooks.com
 23.227.38.32 au.kobobooks.com
-23.219.132.153 scdn.line-apps.com
 23.2.16.8 95.media.tumblr.com
 23.215.103.40 dl.stickershop.line.naver.jp
 23.215.103.24 dl.profile.line.naver.jp
 23.212.99.185 s.pinimg.com
 23.212.99.185 s-media-cache-ak0.pinimg.com
 23.207.122.24 s-external.ak.fbcdn.net
-23.205.217.59 scdn.line-apps.com
 23.0.130.177 w.line.me
 218.93.127.136 www.pcbeta.com
 218.93.127.136 web.pcbeta.com
@@ -2836,26 +2827,10 @@
 203.84.197.27 finance.yahoo.com
 203.69.81.33 humblebundle-a.akamaihd.net
 203.208.51.55 fonts.gstatic.com
-203.104.174.18 gwx.line.naver.jp
-203.104.174.17 gwx.line.naver.jp
-203.104.174.16 gwx.line.naver.jp
-203.104.174.15 gwx.line.naver.jp
-203.104.174.14 gwx.line.naver.jp
 203.104.174.13 gd2v.line.naver.jp
 203.104.174.12 gd2s.line.naver.jp
-203.104.160.32 gwx.line.naver.jp
-203.104.160.31 gwx.line.naver.jp
 203.104.160.11 gd2u.line.naver.jp
-203.104.153.7 obs-tw.line-apps.com
-203.104.153.2 gwx.line.naver.jp
-203.104.153.1 gw.line.naver.jp
-203.104.153.1 gd2.line.naver.jp
-203.104.153.135 obs-tw.line-apps.com
-203.104.153.130 gwx.line.naver.jp
-203.104.153.129 gw.line.naver.jp
-203.104.153.129 gd2.line.naver.jp
 203.104.150.4 obs-tw.line-apps.com
-203.104.150.3 gwx.line.naver.jp
 203.104.150.2 gw.line.naver.jp
 203.104.150.2 gd2.line.naver.jp
 203.104.142.52 lan.line.me
@@ -11316,23 +11291,14 @@
 13.107.42.11 outlook.live.com
 128.127.159.1 magazines-adf.kobo.com
 128.127.159.1 94.media.tumblr.com
-125.209.252.44 gwx.line.naver.jp
-125.209.252.43 gwx.line.naver.jp
-125.209.252.42 gwx.line.naver.jp
-125.209.252.41 gwx.line.naver.jp
 125.209.252.18 gd2i.line.naver.jp
 125.209.252.17 gd2g.line.naver.jp
-125.209.248.6 xcdn-cn-prf.line-apps.com
-125.209.238.209 obs.line-apps.com
-125.209.238.209 obs-cn.line-apps.com
 125.209.238.186 xcdn-cn-stk.line-apps.com
 125.209.238.186 xcdn-cn-shp.line-apps.com
 125.209.238.186 xcdn-cn-prf.line-apps.com
 125.209.238.181 obs.line-apps.com
 125.209.238.181 obs-cn.line-apps.com
 125.209.222.59 gwx.line.naver.jp
-125.209.222.59 gww.line.naver.jp
-125.209.222.59 gd2w.line.naver.jp
 125.209.222.59 gd2k.line.naver.jp
 125.209.222.202 gww.line.naver.jp
 125.209.222.202 gd2w.line.naver.jp
@@ -11400,9 +11366,6 @@
 106.10.137.175 geo.query.yahoo.com
 106.10.136.195 de.yahoo.com
 106.10.136.146 hsrd.yahoo.com
-104.98.19.185 scdn.line-apps.com
-104.74.169.189 w.line.me
-104.70.135.244 scdn.line-apps.com
 104.244.45.129 www.twitter.com
 104.244.45.129 userstream.twitter.com
 104.244.45.129 urls-real.api.twitter.com
@@ -11551,6 +11514,7 @@
 0.0.0.0 zhalehziba.com
 0.0.0.0 zh1.zeroredirect11.com
 0.0.0.0 zgsysz.com
+0.0.0.0 z.gameslivetv.com
 0.0.0.0 zfotos.fromru.su
 0.0.0.0 zfm.oewabox.at
 0.0.0.0 zfhg.digitaldesire.com
@@ -12867,7 +12831,6 @@
 0.0.0.0 www.painolympics.org
 0.0.0.0 www.painolympics.info
 0.0.0.0 www.pagerank10.co.uk
-0.0.0.0 www.oxinads.com
 0.0.0.0 www.oxiads.fr
 0.0.0.0 www.over50datingservices.com
 0.0.0.0 www.outlinearray.com
@@ -13830,7 +13793,6 @@
 0.0.0.0 www.dwclick.com
 0.0.0.0 www.dutchsales.org
 0.0.0.0 www.dt1blog.com
-0.0.0.0 www.dsply.com
 0.0.0.0 www.drteachme.com
 0.0.0.0 www.drowle.com
 0.0.0.0 www.dpbolvw.net
@@ -14573,7 +14535,6 @@
 0.0.0.0 www.adcycle.com
 0.0.0.0 www.adcomplete.com
 0.0.0.0 www.adcode.ws
-0.0.0.0 www.ad-clix.com
 0.0.0.0 www.adclick.lv
 0.0.0.0 www.adchimp.com
 0.0.0.0 www.adcell.de
@@ -16179,7 +16140,6 @@
 0.0.0.0 usatravel-specials.com
 0.0.0.0 usatoday.app.ur.gcion.com
 0.0.0.0 usatoday1.112.2o7.net
-0.0.0.0 usas1.advfn.com
 0.0.0.0 usapromotravel.com
 0.0.0.0 USApolice.com
 0.0.0.0 usa.nedstat.net
@@ -18247,6 +18207,7 @@
 0.0.0.0 stats.indextools.com
 0.0.0.0 stats.indexstats.com
 0.0.0.0 stats.independent.co.uk
+0.0.0.0 stats.ilsemedia.nl[server down?]
 0.0.0.0 stats.ilsemedia.nl
 0.0.0.0 stats.ign.com
 0.0.0.0 statsie.com
@@ -20739,7 +20700,6 @@
 0.0.0.0 r7mediar.com
 0.0.0.0 r5.dir.bg
 0.0.0.0 r.4at1.com
-0.0.0.0 r2d2.adman.gr
 0.0.0.0 r2.adwo.com
 0.0.0.0 r.254a.com
 0.0.0.0 r1.zedo.com
@@ -21491,7 +21451,6 @@
 0.0.0.0 pix521.adtech.us
 0.0.0.0 pix521.adtech.fr
 0.0.0.0 pix521.adtech.de
-0.0.0.0 pix3.esm1.net
 0.0.0.0 pix360.co.nf
 0.0.0.0 pix04.revsci.net
 0.0.0.0 pix03.revsci.net
@@ -24153,7 +24112,6 @@
 0.0.0.0 medias.clicks4ads.com
 0.0.0.0 media.scanscout.com
 0.0.0.0 mediascale.de
-0.0.0.0 media.richrelevance.com
 0.0.0.0 mediaregad.hit.gemius.pl
 0.0.0.0 media.pussycash.com
 0.0.0.0 mediapst-images.adbureau.net
@@ -25638,7 +25596,6 @@
 0.0.0.0 jsn.dt07.net
 0.0.0.0 jsn.dt00.net
 0.0.0.0 js.moatads.com
-0.0.0.0 js.maxmind.com
 0.0.0.0 js.matheranalytics.com
 0.0.0.0 jsl.revsci.net
 0.0.0.0 js.livehelper.com
@@ -29812,7 +29769,7 @@
 0.0.0.0 da.2000888.com
 0.0.0.0 d9.zedo.com
 0.0.0.0 d9d0e0.r.axf8.net
-0.0.0.0 d9ae99824.se
+0.0.0.0 d9ae99824.se[server down?]
 0.0.0.0 d8.zedo.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d7.zedo.com
@@ -30735,7 +30692,6 @@
 0.0.0.0 cluster.ad-serverparc.nl
 0.0.0.0 cluster3.adultadworld.com
 0.0.0.0 cluster-03.topbucks.com
-0.0.0.0 cluper.net
 0.0.0.0 clubmom.122.2o7.net
 0.0.0.0 clubmed.112.2o7.net
 0.0.0.0 c.l.qq.com
@@ -31360,7 +31316,6 @@
 0.0.0.0 cdn.clic2pub.com
 0.0.0.0 cdn.chitika.net
 0.0.0.0 cdn.celtra.com
-0.0.0.0 cdn.castplatform.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.buysellads.com
 0.0.0.0 cdn.bttrack.com
@@ -32912,7 +32867,6 @@
 0.0.0.0 banner.betfred.com
 0.0.0.0 banner-a.oddcast.com
 0.0.0.0 banner.ambercoastcasino.com
-0.0.0.0 banner.amateri.cz
 0.0.0.0 banner.affactive.com
 0.0.0.0 banneradvertising.adclickmedia.com
 0.0.0.0 banner.adtrgt.com
@@ -34234,7 +34188,6 @@
 0.0.0.0 advnt.com
 0.0.0.0 adv.novinar.bg
 0.0.0.0 adv.netshelter.net
-0.0.0.0 adv.netmedia.bg
 0.0.0.0 adv.netinfo.bg
 0.0.0.0 adv.merlin.co.il
 0.0.0.0 adv.medicine.bg
@@ -37739,7 +37692,6 @@
 0.0.0.0 adboost.finalid.com
 0.0.0.0 adboost.de.vu
 0.0.0.0 ad.bondage.com
-0.0.0.0 ad.bodybuilding.com
 0.0.0.0 adbnr.ru
 0.0.0.0 ad.bnmla.com
 0.0.0.0 adblockerkillswebsites.pw
@@ -38221,7 +38173,6 @@
 0.0.0.0 aboutads.quantcast.com
 0.0.0.0 abo.prismamediadigital.com
 0.0.0.0 a.boom.ro
-0.0.0.0 ab-nb.mgid.com
 0.0.0.0 ab-nb.marketgid.com
 0.0.0.0 able2know.us.intellitxt.com
 0.0.0.0 a.bizarremag.com
@@ -38271,7 +38222,6 @@
 0.0.0.0 aa.newsblock.marketgid.com
 0.0.0.0 aa.newsblock.dt00.net
 0.0.0.0 a.androidandme.com
-0.0.0.0 aa-nb.mgid.com
 0.0.0.0 aa-nb.marketgid.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aams1.aim4media.com
