@@ -624,6 +624,7 @@
 61.91.161.217 photos-ugc.l.googleusercontent.com
 61.91.161.217 photos-ugc.l.google.com
 61.91.161.217 photos.google.com
+61.91.161.217 photos.googleapis.com
 61.91.161.217 photos1.blogger.com
 61.91.161.217 p.gmodules.com
 61.91.161.217 personalsafety-pa.googleapis.com
@@ -863,6 +864,7 @@
 61.91.161.217 gxc.google.com
 61.91.161.217 gwt.googlesource.com
 61.91.161.217 gsuite.google.com
+61.91.161.217 growth-pa.googleapis.com
 61.91.161.217 groups.l.google.com
 61.91.161.217 groups.google.com.tw
 61.91.161.217 groups.google.com.sg
@@ -2262,6 +2264,7 @@
 61.91.161.217 console.firebase.google.com
 61.91.161.217 console.developers.google.com
 61.91.161.217 console.cloud.google.com
+61.91.161.217 connectivitycheck.gstatic.com
 61.91.161.217 connectivitycheck.android.com
 61.91.161.217 connectedclassrooms.withgoogle.com
 61.91.161.217 com.google
@@ -2406,6 +2409,9 @@
 61.91.161.217 appspot.com
 61.91.161.217 apps.google.com
 61.91.161.217 apps.admob.com
+61.91.161.217 appinvite-pa.googleapis.com
+61.91.161.217 appinvite-ipv6-pa.googleapis.com
+61.91.161.217 appinvite-ipv4-pa.googleapis.com
 61.91.161.217 appengine.google.com
 61.91.161.217 apis.google.com
 61.91.161.217 apis-explorer.appspot.com
@@ -2442,6 +2448,7 @@
 61.91.161.217 analytics.google.com
 61.91.161.217 analytics.googleblog.com
 61.91.161.217 analyticsacademy.withgoogle.com
+61.91.161.217 alt2-safebrowsing.google.com
 61.91.161.217 alt1-safebrowsing.google.com
 61.91.161.217 ajax.googleapis.com
 61.91.161.217 a-fc-opensocial.googleusercontent.com
@@ -2662,6 +2669,7 @@
 52.72.26.162 issuu.com
 52.72.26.162 image.issuu.com
 52.72.26.162 help.issuu.com
+52.72.26.162 e.issuu.com
 52.72.26.162 developers.issuu.com
 52.72.26.162 content.issuu.com
 52.72.26.162 blog.issuu.com
@@ -2811,8 +2819,11 @@
 209.197.3.20 43.media.tumblr.com
 209.197.3.20 41.media.tumblr.com
 209.197.3.20 39.media.tumblr.com
+208.71.44.31 www.flickr.com
 208.71.44.31 secure.flickr.com
 208.71.44.31 m.flickr.com
+208.71.44.31 flickr.com
+208.71.44.31 downloadr.flickr.com
 207.241.226.190 web.archive.org
 207.241.224.22 www.archive.org
 207.241.224.22 ia802704.us.archive.org
@@ -11123,9 +11134,6 @@
 184.28.188.10 external.ak.fbcdn.net
 184.28.188.10 creative.ak.fbcdn.net
 184.28.188.10 b.static.ak.fbcdn.net
-183.177.81.73 www.flickr.com
-183.177.81.73 flickr.com
-183.177.81.73 downloadr.flickr.com
 177.72.244.194 sa-east-1.console.aws.amazon.com
 176.32.114.59 us-west-1.console.aws.amazon.com
 173.236.110.98 web9.twitpic.com
@@ -11326,9 +11334,9 @@
 125.209.222.202 gd2w.line.naver.jp
 125.209.210.239 lcp-checkout.line.me
 124.108.101.57 s.yimg.com
-121.101.144.116 up.flickr.com
 121.101.144.112 hk.finance.yahoo.com
 119.161.4.10 assets.tumblr.com
+119.161.11.10 up.flickr.com
 119.161.10.198 99.media.tumblr.com
 119.161.10.198 96.media.tumblr.com
 119.161.10.198 24.media.tumblr.com
@@ -12288,7 +12296,6 @@
 0.0.0.0 www.topadult.ro
 0.0.0.0 www.top99.ro
 0.0.0.0 www.top90.ro
-0.0.0.0 www.top55.ro
 0.0.0.0 www.top300.ro
 0.0.0.0 www.top25.ro
 0.0.0.0 www.top20free.com
@@ -12789,7 +12796,6 @@
 0.0.0.0 www.pointroll.com
 0.0.0.0 www.pointclicktrack.com
 0.0.0.0 www.poesiadelsud.it
-0.0.0.0 www.playertraffic.com
 0.0.0.0 www.platinumbucks.com
 0.0.0.0 www.plasmatvreward.com
 0.0.0.0 www.plasmatv4free.com
@@ -12963,7 +12969,6 @@
 0.0.0.0 www.mystats.nl
 0.0.0.0 www.my-stats.com
 0.0.0.0 www.mystat.pl
-0.0.0.0 www.myshovel.com
 0.0.0.0 www.myseostats.com
 0.0.0.0 www.myroitracking.com
 0.0.0.0 www.my-rewardsvault.com
@@ -15366,7 +15371,6 @@
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmaster-partnerprogramme24.de
 0.0.0.0 webmasterkai.sitetracker.com
-0.0.0.0 webmarketing3x.net
 0.0.0.0 weblover.info
 0.0.0.0 weblogger.visilabs.com
 0.0.0.0 weblog.blogads.com
@@ -18470,7 +18474,6 @@
 0.0.0.0 static.clickpapa.com
 0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.chartbeat.com
-0.0.0.0 static-cdn.labs.burstnet.com
 0.0.0.0 static.cdn.gtsmobi.com
 0.0.0.0 static.cdn.adblade.com
 0.0.0.0 static.carbonads.com
@@ -18705,7 +18708,6 @@
 0.0.0.0 sps01.office.ctm.net
 0.0.0.0 sprintusers.us.intellitxt.com
 0.0.0.0 sprintglobal.112.2o7.net
-0.0.0.0 sprinks-clicks.about.com
 0.0.0.0 springclick-ads.s3.amazonaws.com
 0.0.0.0 spread.diadanoivabh.com.br
 0.0.0.0 spravki-online.hit.bg
@@ -21466,7 +21468,6 @@
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.adadvisor.net
-0.0.0.0 pixel3.about.com
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel1739.everesttech.net
 0.0.0.0 pixel1553.everesttech.net
@@ -22088,7 +22089,6 @@
 0.0.0.0 oraclecom.112.2o7.net
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 or.5.p2l.info
-0.0.0.0 opx.struma.bg
 0.0.0.0 optmd.com
 0.0.0.0 option9.adultfriendfinder.com
 0.0.0.0 optimzedby.rmxads.com
@@ -22145,7 +22145,6 @@
 0.0.0.0 openx.adtext.ro
 0.0.0.0 openx.adfactor.nl
 0.0.0.0 openx.4shared.com
-0.0.0.0 openx.359gsm.com
 0.0.0.0 openx2.fotoflexer.com
 0.0.0.0 opentable.tt.omtrdc.net
 0.0.0.0 openstat.net
@@ -24897,7 +24896,6 @@
 0.0.0.0 luwyou.com
 0.0.0.0 luoba556.com
 0.0.0.0 lunaticjazz.com
-0.0.0.0 lunafetch.about.com
 0.0.0.0 luksona.popunder.ru
 0.0.0.0 luggage-tv.com
 0.0.0.0 luggagepreview.com
@@ -25913,7 +25911,6 @@
 0.0.0.0 itmcash.com
 0.0.0.0 ithyk.frenchgerlemanelectric.com
 0.0.0.0 itfarm.com
-0.0.0.0 i.tfag.de
 0.0.0.0 it.erosadv.com
 0.0.0.0 itempana.site
 0.0.0.0 itemagic.net
@@ -29806,7 +29803,6 @@
 0.0.0.0 da.2000888.com
 0.0.0.0 d9.zedo.com
 0.0.0.0 d9d0e0.r.axf8.net
-0.0.0.0 d9ae99824.se[server down?]
 0.0.0.0 d8.zedo.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d7.zedo.com
@@ -30787,6 +30783,7 @@
 0.0.0.0 clients.pointroll.com
 0.0.0.0 clients.bluecava.com
 0.0.0.0 client.roiadtracker.com
+0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clien.net
 0.0.0.0 clien.info
 0.0.0.0 clicmanager.fr
@@ -33185,7 +33182,6 @@
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 a.thanksearch.com
 0.0.0.0 at.gmads.net
-0.0.0.0 a.tfag.de
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 atemda.com
 0.0.0.0 atelierprincesse.web.fc2.com
@@ -33878,7 +33874,6 @@
 0.0.0.0 al1.sharethis.com
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 aktif.haberx.com
-0.0.0.0 ak.tfag.de
 0.0.0.0 aksdk-images.adikteev.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak.quantcast.com
@@ -34700,7 +34695,6 @@
 0.0.0.0 ads.tv7.sporta.bg
 0.0.0.0 ads.tv7.bg
 0.0.0.0 ads.turkticaret.net
-0.0.0.0 ads.tunenerve.com
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.tucows.com
 0.0.0.0 ads.tso.dennisnet.co.uk
@@ -34721,7 +34715,6 @@
 0.0.0.0 ads.treehugger.com
 0.0.0.0 adstreams.org
 0.0.0.0 adstream.cardboardfish.com
-0.0.0.0 ads.travellogger.com
 0.0.0.0 ads.traffikings.com
 0.0.0.0 ads.trafficpimps.com
 0.0.0.0 ads.trafficnews.bg
@@ -38186,7 +38179,6 @@
 0.0.0.0 accuserveadsystem.com
 0.0.0.0 a.cctv.com
 0.0.0.0 accounts.pkr.com.invalid
-0.0.0.0 accounts.pkr.com
 0.0.0.0 accountlock-demo.iovation.com
 0.0.0.0 acckalaharinet.112.2o7.net
 0.0.0.0 acces.streaming-direct.co
@@ -38404,7 +38396,6 @@
 0.0.0.0 86get.joy.cn
 0.0.0.0 86file.megajoy.com
 0.0.0.0 8682sy.com
-0.0.0.0 85dcf732d593.se
 0.0.0.0 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
 0.0.0.0 85103.hittail.com
 0.0.0.0 8507899.com
@@ -38926,7 +38917,6 @@
 0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0d79ed.r.axf8.net
 0.0.0.0 0d7292.r.axf8.net
-0.0.0.0 0c9d8370d.se
 0.0.0.0 09killspyware.com
 0.0.0.0 092706152958.c.mystat-in.net
 0.0.0.0 088yl.com
