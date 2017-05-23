@@ -711,7 +711,6 @@
 61.91.161.217 m.google.com
 61.91.161.217 m.gmail.com
 61.91.161.217 m-dot-betaspike.appspot.com
-61.91.161.217 maven.google.com
 61.91.161.217 material.google.com
 61.91.161.217 mars.google.com
 61.91.161.217 markuphelper.googleusercontent.com
@@ -26029,6 +26028,7 @@
 0.0.0.0 advertisment.unimatrix.si
 0.0.0.0 advertising.yandex.ru
 0.0.0.0 advertising.thediabetesnetwork.com
+0.0.0.0 advertisingtag.net
 0.0.0.0 advertising.seenews.com
 0.0.0.0 advertising.rockettube.net
 0.0.0.0 advertisingnemesis.com
