@@ -27,7 +27,6 @@
 82.145.209.242 global-4-lvs-turing-2.opera-mini.net
 82.145.208.44 z01-09-01.opera-mini.net
 78.47.38.231 storm.torproject.org
-78.47.38.231 stem.torproject.org
 78.47.38.229 bridges.torproject.org
 78.47.38.227 onionoo.torproject.org
 76.13.28.196 downloadr.flickr.com
@@ -333,6 +332,7 @@
 23.227.38.32 au.kobobooks.com
 23.219.132.99 vp.nyt.com
 23.2.16.8 95.media.tumblr.com
+23.185.0.2 blog.torproject.org
 223.119.202.208 w.line.me
 223.119.202.208 scdn.line-apps.com
 223.119.202.208 lan.line.me
@@ -11825,12 +11825,14 @@
 154.35.132.70 wiki.torproject.org
 154.35.132.70 torproject.org
 154.35.132.70 tb-manual.torproject.org
+154.35.132.70 stem.torproject.org
 154.35.132.70 spec.torproject.org
 154.35.132.70 research.torproject.org
 154.35.132.70 ooni.torproject.org
 154.35.132.70 onion.torproject.org
 154.35.132.70 help.torproject.org
 154.35.132.70 gettor.torproject.org
+154.35.132.70 extra.torproject.org
 154.35.132.70 dist.torproject.org
 154.35.132.70 deb.torproject.org
 154.35.132.70 consensus-health.torproject.org
@@ -11953,7 +11955,6 @@
 138.201.14.203 people.torproject.org
 138.201.14.202 lists.torproject.org
 138.201.14.199 db.torproject.org
-138.201.14.196 blog.torproject.org
 134.170.178.89 achievements.xboxlive.com
 13.32.231.218 www.resilio.com
 13.32.231.218 www.getsync.com
@@ -17298,7 +17299,6 @@
 0.0.0.0 ps2.ign.us.intellitxt.com
 0.0.0.0 pr-ten.de
 0.0.0.0 prstats.postrelease.com
-0.0.0.0 pr-star.de
 0.0.0.0 prsitecheck.com
 0.0.0.0 prscripts.com
 0.0.0.0 pr.realvu.net
@@ -20254,7 +20254,6 @@
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instantmadness.com
 0.0.0.0 instadia.112.2o7.net
-0.0.0.0 inspectorclick.com
 0.0.0.0 inskinad.com
 0.0.0.0 insightexpresserdd.com
 0.0.0.0 insightexpress.com
@@ -21078,7 +21077,6 @@
 0.0.0.0 go.eu.bbelements.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.cz.bbelements.com
-0.0.0.0 go-clicks.de
 0.0.0.0 goclick.com
 0.0.0.0 go.arbopl.bbelements.com
 0.0.0.0 goal.us.intellitxt.com
@@ -25601,6 +25599,7 @@
 0.0.0.0 adtools2.amakings.com
 0.0.0.0 ad.tom.com
 0.0.0.0 adtoma.com
+0.0.0.0 adtology.com
 0.0.0.0 adtoll.com
 0.0.0.0 adt.m7z.net
 0.0.0.0 adtiger.de
