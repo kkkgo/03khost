@@ -145,6 +145,7 @@
 54.239.168.4 www.psiphon3.com
 54.239.168.4 psiphon3.com
 54.231.49.3 s3.amazonaws.com
+54.231.49.104 github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.40.3 github-com.s3.amazonaws.com
 54.231.251.21 s3-ap-southeast-2.amazonaws.com
 54.231.242.170 s3-ap-southeast-1.amazonaws.com
@@ -205,6 +206,7 @@
 52.219.0.4 s3-ap-northeast-1.amazonaws.com
 52.218.16.140 s3-eu-west-1.amazonaws.com
 52.216.80.48 github-cloud.s3.amazonaws.com
+52.216.228.168 github-production-user-asset-6210df.s3.amazonaws.com
 52.214.109.54 www.thebodyshop.com
 52.206.184.18 et.nytimes.com
 52.205.35.67 beacon.flipboard.com
@@ -336,7 +338,6 @@
 223.119.202.208 w.line.me
 223.119.202.208 scdn.line-apps.com
 223.119.202.208 lan.line.me
-219.76.4.4 github-production-release-asset-2e65be.s3.amazonaws.com
 219.76.10.49 vthumb.ak.fbcdn.net
 219.76.10.49 static.ak.fbcdn.net
 219.76.10.49 s-external.ak.fbcdn.net
@@ -367,6 +368,7 @@
 218.93.127.136 bbs.pcbeta.com
 2.17.58.51 api.onedrive.live.com
 216.58.221.144 commondatastorage.googleapis.com
+216.58.209.238 redirector.googlevideo.com
 216.58.206.14 attribution.google.com
 216.58.200.33 yt-video-upload.l.google.com
 216.58.200.33 ytstatic.l.google.com
@@ -11672,7 +11674,6 @@
 173.252.108.3 telegraph-ash.instagram.com
 173.192.82.196 realtime.services.disqus.com
 172.217.25.243 www.autodraw.com
-172.217.22.46 redirector.googlevideo.com
 170.149.159.135 nytimes.com
 169.44.145.200 single.upsight-api.com
 169.44.145.200 bootstrap.upsight-api.com
