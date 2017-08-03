@@ -833,8 +833,6 @@
 216.58.195.238 reminders-pa.clients6.google.com
 216.58.195.238 relay.google.com
 216.58.195.238 registry.google
-216.58.195.238 redirector.gvt1.com
-216.58.195.238 redirector.googlevideo.com
 216.58.195.238 redirector.c.youtube.com
 216.58.195.238 redirector-bigcache.googleapis.com
 216.58.195.238 realtimesupport.clients6.google.com
@@ -2956,6 +2954,8 @@
 203.84.197.27 answers.yahoo.com
 203.69.81.33 humblebundle-a.akamaihd.net
 203.208.51.55 fonts.gstatic.com
+203.208.41.40 redirector.gvt1.com
+203.208.41.40 redirector.googlevideo.com
 203.188.200.67 tw.yahoo.com
 203.188.200.67 hk.yahoo.com
 203.104.174.18 gwx.line.naver.jp
@@ -22077,7 +22077,6 @@
 0.0.0.0 dy.testnet.nl
 0.0.0.0 dyntraq.mtree.com
 0.0.0.0 dyn.naiadsystems.com
-0.0.0.0 dynamicyield.com
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dynamic.exaccess.ru
 0.0.0.0 dynamic.cannedbanners.com
